@@ -70,28 +70,35 @@ In Nehemia 6 wordt beschreven hoe Nehemia geconfronteerd wordt met een poging om
 
 ## Voltooiing - H7-12
 
-H7: God geeft Nehemia in het hart om het volk zich te laten inschrijven. Zij die niet kunnen aantonen uit welke familie zij komen mogen voor de zekerheid niet meedoen aan de priesterdienst tot een priester met het lot hen aangewezen heeft. 42.360 mensen, exclusief slaven, slavinnen en zangers en zangeressen. De familiehoofden geven Nehemia geld, goud en andere spullen om het werk voort te kunnen zetten. 
+**H7:** In hoofdstuk 7 wordt beschreven hoe Nehemia het op zijn hart krijgt om het volk te laten inschrijven. Dit is een belangrijke stap om de identiteit en afstamming van de inwoners van Jeruzalem vast te leggen. Zij die hun afkomst niet konden bewijzen, mochten voor de zekerheid niet deelnemen aan de priesterdienst totdat een priester met het lot hen zou aanwijzen. Het totaal aantal teruggekeerde ballingen wordt genoemd: 42.360 mensen, exclusief slaven, slavinnen en zangers en zangeressen. De familiehoofden dragen bij aan de wederopbouw door goud, zilver en andere waardevolle spullen te schenken.
 
-H8: Ezra leest het volk voor uit de wet \- en er zijn ook uitleggers bij zodat iedereen ook begrijpt wat er wordt voorgelezen. Het volk huilt, maar ze worden aangespoord om juist feest te vieren \- met expliciet ook de opdracht om te delen met hen die niets hebben. De vreugde van de HEERE is hun kracht. Het volk doet dat. Ze vieren vervolgens meteen het loofhuttenfeest. De laatste dag van dit feest wordt het feest van de Tora gevierd: het feest van de wet. 
+**H8:**  het volk verzamelt zich op het plein voor de Waterpoort. Ezra, de priester en schriftgeleerde, leest de wet van Mozes voor aan het volk, van zonsopgang tot de middag. De Levieten helpen het volk de wet te begrijpen door uitleg te geven. Het volk luistert aandachtig en wordt diep geraakt door wat ze horen, wat hen tot tranen brengt. Nehemia, Ezra en de Levieten moedigen het volk echter aan om niet te huilen, maar om feest te vieren, omdat de dag heilig is voor de HEERE. Ze zeggen: "De vreugde van de HEERE is uw kracht." Het volk wordt aangespoord om te eten, te drinken en te delen met degenen die niets hebben.
 
-9\. Dus, hoe blij ben jij met je Bijbel?
+> **Note:** Het volk huilt omdat ze zich niet aan Gods wet gehouden hebben. Toch worden ze opgeroepen om feest te vieren, omdat de dag heilig is voor de HEERE en "de vreugde van de HEERE is uw kracht" (Nehemia 8:10). Dit laat zien dat berouw en vreugde hand in hand kunnen gaan in het licht van Gods genade.
 
-* Verdriet door de wet  
-* Vreugde door de wet
+> **Note:** In Nehemia 8:7-8 wordt beschreven hoe de Levieten het volk hielpen de wet te begrijpen door uitleg te geven. Dit was belangrijk omdat veel teruggekeerde ballingen de Hebreeuwse taal niet meer volledig beheersten en de wet van Mozes complex was. Dit onderstreept het belang van onderwijs en begeleiding in het geloof.
 
-H9 & 10: Het volk zondert zich af van alle buitenstaanders en belijdt samen hun schuld tegenover God in een indrukwekkend gebed. Ze denken aan alles wat God heeft gedaan voor hun volk en hoe zij steeds weer afdwaalden. Hoe God hen dan steeds weer genadig was. Ze erkennen dat hun huidige situatie het gevolg is van hun ongehoorzaamheid. Na het gebed legt het hele volk een eed af tegenover God en de leiders zetten hun zegel onder een nieuw verbond met God. Ze spreken uit de tempeldienst weer te herstellen, zich te houden aan alle wetten, zoals het geven van tienden voor de dienst van God en het heiligen van de Sabbat. 
+**H10:** hier vernieuwt het volk van Israël hun verbond met God. De leiders, Levieten en priesters zetten hun zegels onder een schriftelijk document waarin ze plechtig beloven zich te houden aan de wetten van God. Ze beloven specifiek:
 
-* Schuld belijden en het verbond vernieuwen
+- Geen huwelijken aan te gaan met de omliggende volken.
+- De sabbat en het sabbatsjaar te heiligen.
+- Bij te dragen aan de tempeldienst door het geven van tienden, het brengen van offers en het onderhouden van de priesters en Levieten.
+- Voorzien in hout voor het altaar en de eerste vruchten van hun oogst en vee aan God te geven.
 
-H11: het volk werpt het lot om te bepalen wie in Jeruzalem moet blijven wonen. Zij die zich vrijwillig aanbieden worden gezegend door het volk. Er volgt een hele lijst mensen, met ook van een heel aantal beschreven wat hun taak is. Zangers, aanbiddingsleiders, priesters, levieten, bouwers, soldaten en poortwachters. 
+9\. Was het nodig voor het volk om zich te binden in een verdrag/verbond?
 
-H12: een register van alle levieten. Er wordt beschreven hoe de muur met een groot feest wordt ingewijd, het is tot in de verre omtrek te horen. Aan het eind staat nog hoe de gemeenschap de mensen onderhield die in de tempel dienden. 
+**H11: Het lot en de bewoners van Jeruzalem**
 
-* Dank laten zien en horen voor wat God heeft gedaan  
-* Zorgen voor hen die dienen
+**H11:** hier wordt beschreven hoe het volk het lot werpt om te bepalen wie in Jeruzalem moet wonen, aangezien de stad nog grotendeels leeg is. Eén op de tien mensen wordt aangewezen om in de stad te wonen, terwijl de rest in de omliggende gebieden blijft. Degenen die zich vrijwillig aanbieden om in Jeruzalem te wonen, worden gezegend door het volk. Er volgt een uitgebreide lijst van de inwoners van Jeruzalem, waaronder priesters, Levieten, poortwachters, zangers en andere functionarissen. Dit hoofdstuk benadrukt de diversiteit en samenwerking binnen de gemeenschap, waarbij iedereen een specifieke rol vervult in het herstel en de opbouw van de stad.
+
+10\. Waarom was het zo belangrijk om Jeruzalem weer bewoonbaar te maken? Zo erg dat mensen 'verplicht' werden om er te wonen. (Nehemia 11:1-2, Jesaja 62:1-7, Zacharia 8:3-8)
+
+**H12:** de muur wordt hier ingewijd. Het volk komt samen om deze mijlpaal te vieren met een grote ceremonie. De Levieten worden uit alle omliggende gebieden gehaald om de inwijding te begeleiden met lofzang, muziek en dankzegging. Er worden twee grote koren gevormd die in processie over de muur lopen, elk in een andere richting, totdat ze elkaar ontmoeten bij het huis van God. Ezra leidt een van de processies, terwijl Nehemia de andere begeleidt. De ceremonie wordt gekenmerkt door vreugde en dankbaarheid, en de lofprijzing is zo luid dat het tot ver buiten Jeruzalem te horen is. 
+
+11\. Wat kunnen we leren van de vreugde en toewijding van het volk tijdens de inwijding van de muur? (Hoe) kunnen we dit toepassen in ons eigen leven en geloof?
 
 ## Teleurstelling
 
 H13: het eindigt met dat het meteen weer helemaal misgaat. Waar men in H10 nog plechtig beloofde geen graan de stad binnen te brengen op de sabbat, wordt er hier alweer volop gehandeld op diezelfde sabbat. Nehemia komt terug van een tijd bij de koning en moet meteen hard optreden. Tobia heeft zelfs een kamer in de tempel gekregen, wat Nehemia woedend maakt. Hij gooit Tobia's bezittingen de tempel uit en herstelt de ruimte voor de tempeldienst (Jezus doet dit ook). Hij roept de machthebbers ter verantwoording. Hij herinnert hen eraan wat er gebeurt als ze Gods wetten niet in acht nemen. Hebben ze niks geleerd van hun vaderen? Nehemia gaat op de vuist met een aantal mannen omdat ze hun dochters uithuwelijken aan andere volken. Hij herinnert hen aan Salomo, zelfs hij werd van God afgebracht door de heidense vrouwen, denken zij soms dat ze beter zijn? Nehemia trekt een heel aantal zaken recht en vraagt opnieuw aan God om aan hem te denken vanwege het goede wat hij heeft gedaan. Daar eindigt ook het boek. 
 
-10\. Aan het einde van het boek Nehemia is Nehemia teleurgesteld omdat het volk van Israël opnieuw de wetten van God overtreedt. Ondanks alle inspanningen om de stad en de gemeenschap te herbouwen, ziet hij dat wat hij gedaan heeft niet gewerkt heeft. Hoe ga jij om met teleurstelling? Teleurstelling in opbouw, in volhouden? 
+12\. Aan het einde van het boek Nehemia is Nehemia teleurgesteld omdat het volk van Israël opnieuw de wetten van God overtreedt. Ondanks alle inspanningen om de stad en de gemeenschap te herbouwen, ziet hij dat wat hij gedaan heeft niet gewerkt heeft. Hoe ga jij om met teleurstelling? Teleurstelling in opbouw, in volhouden? 
