@@ -2,11 +2,24 @@
 
 *Als je Jeruzalem in puin ligt, moet je gaan bouwen. Ook onder tegenstand.*
 
+## Bijbellezing - Introductie tot Nehemia
+
+Om een goed beeld te krijgen van de context waarin Nehemia opereert, is het waardevol om te lezen over de terugkeer van de ballingen en de wederopbouw van Jeruzalem. De volgende passages bieden een introductie:
+
+1. **2 Kronieken 36:15-23**  
+    Dit beschrijft de val van Jeruzalem, de ballingschap en de proclamatie van koning Cyrus, die de terugkeer van de Joden mogelijk maakt.
+
+2. **Ezra 1:1-11**  
+    Hier wordt de terugkeer van de eerste groep ballingen onder leiding van Zerubbabel beschreven, evenals de opdracht om de tempel te herbouwen.
+
+3. **Psalm 126**  
+    Een lied van vreugde en hoop dat de terugkeer uit ballingschap viert en de afhankelijkheid van God benadrukt.
+
 ## Gezamenlijke introductie
 
-De tweede Babylonische ballingschap vond plaats nadat de Babyloniërs onder koning Nebukadnezar Jeruzalem hadden veroverd en de tempel hadden verwoest. Dit leidde tot de deportatie van vele Joden naar Babylon. Deze gebeurtenissen worden beschreven in 2 Koningen 25:1-21 en 2 Kronieken 36:15-21.
+De tweede Babylonische ballingschap vond plaats nadat de Babyloniërs onder koning Nebukadnezar Jeruzalem hadden veroverd en de tempel hadden verwoest. Dit leidde tot de deportatie van de meeste Joden naar Babylon. Deze gebeurtenissen worden beschreven in 2 Koningen 25:1-21 en 2 Kronieken 36:15-21.
 
-Deze gebeurtenissen waren voorspeld door verschillende profeten, waaronder Jeremia en Ezechiël. Jeremia waarschuwde herhaaldelijk voor de komende vernietiging en ballingschap als gevolg van de zonden van het volk (Jeremia 25:11-12, Jeremia 29:10). Ezechiël, die zelf al in ballingschap leefde, profeteerde ook over de val van Jeruzalem en de daaropvolgende ballingschap (Ezechiël 12:1-13 \- Ezechiel die door de muur van zijn huis moest uitbreken).
+Deze gebeurtenissen waren voorspeld door verschillende profeten, waaronder Jeremia en Ezechiël. Jeremia waarschuwde herhaaldelijk voor de komende vernietiging en ballingschap als gevolg van de zonden van het volk (Jeremia 25:11-12, Jeremia 29:10). Ezechiël, die zelf al in ballingschap leefde, profeteerde ook over de val van Jeruzalem en de daaropvolgende (tweede) ballingschap (Ezechiël 12:1-13 \- Dit is het stuk van Ezechiel, die door de muur van zijn huis moest uitbreken).
 
 Na de Babylonische ballingschap keerden de Joden terug naar Jeruzalem om de stad en de tempel te herbouwen, geleid door Zerubbabel, Ezra en nu dus Nehemia. Nehemia, een hoge functionaris aan het Perzische hof, kreeg toestemming van Koning Arthahsasta om de muren van Jeruzalem te herbouwen en daar willen we het dit VIDA weekend over hebben.
 
