@@ -41,8 +41,11 @@ Na de Babylonische ballingschap keerden de Joden terug naar Jeruzalem om de stad
 Na toestemming van koning Arthahsasta reist Nehemia naar Jeruzalem. Hij arriveert daar en houdt zijn plannen aanvankelijk geheim. 's Nachts inspecteert hij de stadsmuren en poorten die in puin liggen, zonder dat iemand weet wat hij van plan is. Hij neemt de schade nauwkeurig op en maakt een plan voor de wederopbouw. Wanneer Nehemia zijn plannen aan de Joden onthult, moedigt hij hen aan door te vertellen over Gods hand die met hem is en de steun van de koning. Dit inspireert het volk om aan het werk te gaan. Echter, zodra de wederopbouw begint, stuiten ze op tegenstand van Sanballat, Tobias en Gesem. Deze tegenstanders bespotten en beschuldigen Nehemia en het volk van rebellie tegen de koning. Nehemia beroept zich op God,
 
 5\. Wat kunnen we leren uit het handelen van Nehemia?
-    - Nehemia is vastberaden dat God met hem is, zonder 'teken' -> Anderen aanmoedigen?
-    - Nehemia's voorbereiding en geheimzinnigheid. -> Bidden en werken
+
+- Nehemia is vastberaden dat God met hem is, wat was zijn 'teken'? 
+- Nehemia's voorbereiding (en geheimzinnigheid) maar ook verbinding/afhankelijkheid van God
+- Aanmoedigen van anderen
+- ..
 
 ## Tegenstand - H4-6
 
@@ -97,8 +100,16 @@ In Nehemia 6 wordt beschreven hoe Nehemia geconfronteerd wordt met een poging om
 
 11\. Wat kunnen we leren van de vreugde en toewijding van het volk tijdens de inwijding van de muur? (Hoe) kunnen we dit toepassen in ons eigen leven en geloof?
 
-## Teleurstelling
+## Teleurstelling - H13
 
-H13: het eindigt met dat het meteen weer helemaal misgaat. Waar men in H10 nog plechtig beloofde geen graan de stad binnen te brengen op de sabbat, wordt er hier alweer volop gehandeld op diezelfde sabbat. Nehemia komt terug van een tijd bij de koning en moet meteen hard optreden. Tobia heeft zelfs een kamer in de tempel gekregen, wat Nehemia woedend maakt. Hij gooit Tobia's bezittingen de tempel uit en herstelt de ruimte voor de tempeldienst (Jezus doet dit ook). Hij roept de machthebbers ter verantwoording. Hij herinnert hen eraan wat er gebeurt als ze Gods wetten niet in acht nemen. Hebben ze niks geleerd van hun vaderen? Nehemia gaat op de vuist met een aantal mannen omdat ze hun dochters uithuwelijken aan andere volken. Hij herinnert hen aan Salomo, zelfs hij werd van God afgebracht door de heidense vrouwen, denken zij soms dat ze beter zijn? Nehemia trekt een heel aantal zaken recht en vraagt opnieuw aan God om aan hem te denken vanwege het goede wat hij heeft gedaan. Daar eindigt ook het boek. 
+Het boek Nehemia eindigt met een teleurstellende wending. Waar het volk in hoofdstuk 10 nog plechtig beloofde om zich aan Gods wetten te houden, gaat het al snel weer mis. Ondanks hun belofte om geen graan de stad binnen te brengen op de sabbat, wordt er opnieuw volop gehandeld op deze heilige dag. 
+
+Wanneer Nehemia terugkeert na een periode bij de koning, ontdekt hij dat Tobia zelfs een kamer in de tempel heeft gekregen. Dit maakt Nehemia woedend. Hij gooit Tobia's bezittingen de tempel uit en herstelt de ruimte voor de tempeldienst, een daad die doet denken aan hoe Jezus later de tempel reinigt. Nehemia roept de leiders ter verantwoording en herinnert hen eraan wat er gebeurt als Gods wetten worden genegeerd. Hij vraagt hen of ze niets hebben geleerd van de fouten van hun voorouders.
+
+Daarnaast ontdekt Nehemia dat sommige mannen hun dochters hebben uitgehuwelijkt aan heidense volken. Dit leidt tot een harde confrontatie. Nehemia wijst hen op het voorbeeld van Salomo, die ondanks zijn wijsheid werd afgeleid van God door heidense vrouwen. Hij vraagt hen of zij denken dat ze beter zijn dan Salomo. Nehemia grijpt stevig in en corrigeert de situatie.
+
+Het boek eindigt met Nehemia die opnieuw aan God vraagt om hem te gedenken vanwege het goede dat hij heeft gedaan. Ondanks zijn inspanningen blijft de strijd om trouw te blijven aan Gods wetten een terugkerend thema.
+
+**Reflectie:** Hoe ga jij om met teleurstelling, vooral wanneer je ziet dat inspanningen om iets op te bouwen of te behouden niet het gewenste resultaat opleveren? Wat kunnen we leren van Nehemia's volharding en zijn vertrouwen op God, zelfs in moeilijke tijden?
 
 12\. Aan het einde van het boek Nehemia is Nehemia teleurgesteld omdat het volk van Israël opnieuw de wetten van God overtreedt. Ondanks alle inspanningen om de stad en de gemeenschap te herbouwen, ziet hij dat wat hij gedaan heeft niet gewerkt heeft. Hoe ga jij om met teleurstelling? Teleurstelling in opbouw, in volhouden? 
