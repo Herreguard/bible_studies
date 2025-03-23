@@ -8,7 +8,8 @@ This page will redirect to a random page from the list below every time it is ac
 <script>
     // List of page links
     const pages = [
-        "story1.md",
+        "story1/story1.md",
+        "story2/story2.md",
     ];
 
     // Select a random page
