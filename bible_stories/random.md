@@ -3,7 +3,8 @@
 This page will redirect to a random page from the list below every time it is accessed.
 
 ## Pages List
-- [Page 1](story1.md)
+- [Story1](story1/story1.md)
+- [Story1](story2/story2.md)
 
 <script>
     // List of page links
