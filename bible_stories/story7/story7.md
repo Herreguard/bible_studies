@@ -1,6 +1,6 @@
-# Samen zijn we overdonderend
+# Ooit was ik groot en blij. Nu is het onrustig met mij in de wei
 
-![Story3](story3.png)
+![Story7](story7.png)
 
 <style>
     img {
@@ -26,7 +26,7 @@
 </script>
 
 <div id="description" style="text-align: center; font-style: italic;">
-    Jacobes en Johannes. De gebroederes van de donder genoemd in Markus 3:17.
+    Genesis 31:35: Rachel verstopte de afgoden van haar vader Laban onder haar zitvlak en zei dat ze niet kon opstaan omdat ze ongesteld was
 </div>
 
 [Pick a new card](../random.md)

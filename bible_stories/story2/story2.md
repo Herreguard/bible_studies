@@ -1,6 +1,6 @@
 # Mijn komst is geprofeteerd maar in Israel wordt ik niet vereerd
 
-![Story1](story1.png)
+![Story2](story2.png)
 
 <style>
     img {
@@ -25,9 +25,7 @@
     });
 </script>
 
-<div id="description">
-    ## Description
-
+<div id="description" style="text-align: center; font-style: italic;">
     Kores. Kores wordt in Jesaja 45:1 genoemd als de gezalfde van God. Hij was het die de Joden toestemming gaf om terug te keren naar Jeruzalem.
 </div>
 

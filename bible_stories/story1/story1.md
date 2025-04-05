@@ -25,9 +25,7 @@
     });
 </script>
 
-<div id="description">
-    ## Description
-
+<div id="description" style="text-align: center; font-style: italic;">
     Onesimus in de brief van Paulus aan Filemon. Onesimus betekent nuttig en was een weg gelopen slaaf die, met een brief van Paulus, terug ging naar zijn meester Filemon.
 </div>
 

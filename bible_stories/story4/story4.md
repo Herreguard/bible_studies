@@ -1,6 +1,6 @@
-# Samen zijn we overdonderend
+# Ooit was ik groot en blij. Nu is het onrustig met mij in de wei
 
-![Story3](story3.png)
+![Story4](story4.png)
 
 <style>
     img {
@@ -26,7 +26,7 @@
 </script>
 
 <div id="description" style="text-align: center; font-style: italic;">
-    Jacobes en Johannes. De gebroederes van de donder genoemd in Markus 3:17.
+    Nebukadnezar. In Daniël 4:30 wordt Nebukadnezar de koning van Babel genoemd. Hij was de koning die een tijd(7 jaar) als een beest leefde.
 </div>
 
 [Pick a new card](../random.md)

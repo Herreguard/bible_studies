@@ -1,6 +1,6 @@
-# Samen zijn we overdonderend
+# Deze droom is een natuurkundig fenomeen geworden
 
-![Story3](story3.png)
+![Story8](story8.png)
 
 <style>
     img {
@@ -26,7 +26,7 @@
 </script>
 
 <div id="description" style="text-align: center; font-style: italic;">
-    Jacobes en Johannes. De gebroederes van de donder genoemd in Markus 3:17.
+    De jacob's ladder. Genesis 28:12. Je kunt een jacob's ladder maken met een hoogspanningsbron en twee metalen staven
 </div>
 
 [Pick a new card](../random.md)

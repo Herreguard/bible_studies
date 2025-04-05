@@ -1,6 +1,6 @@
-# Samen zijn we overdonderend
+# Verzuchtend en verdwaast zocht hij buiten naar wat extra tijd voor zijn uurwerk
 
-![Story3](story3.png)
+![Story6](story6.png)
 
 <style>
     img {
@@ -26,7 +26,7 @@
 </script>
 
 <div id="description" style="text-align: center; font-style: italic;">
-    Jacobes en Johannes. De gebroederes van de donder genoemd in Markus 3:17.
+    Een Egyptenaar die die zijn zandloper bijfult ten tijde van Hizkia;s langere dag. Jesaja 38:8
 </div>
 
 [Pick a new card](../random.md)
