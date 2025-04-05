@@ -1,6 +1,6 @@
 # Deze droom is een natuurkundig fenomeen geworden
 
-![Story8](story8.png)
+![Story8](story8.jpeg)
 
 <style>
     img {

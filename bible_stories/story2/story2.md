@@ -1,6 +1,6 @@
 # Mijn komst is geprofeteerd maar in Israel wordt ik niet vereerd
 
-![Story2](story2.png)
+![Story2](story2.jpeg)
 
 <style>
     img {

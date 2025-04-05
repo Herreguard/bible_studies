@@ -1,6 +1,6 @@
 # Verzuchtend en verdwaast zocht hij buiten naar wat extra tijd voor zijn uurwerk
 
-![Story6](story6.png)
+![Story6](story6.jpeg)
 
 <style>
     img {

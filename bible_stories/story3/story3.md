@@ -1,6 +1,6 @@
 # Samen zijn we overdonderend
 
-![Story3](story3.png)
+![Story3](story3.jpeg)
 
 <style>
     img {

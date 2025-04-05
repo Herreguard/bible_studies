@@ -1,6 +1,6 @@
 # Ooit was ik groot en blij. Nu is het onrustig met mij in de wei
 
-![Story7](story7.png)
+![Story7](story7.jpeg)
 
 <style>
     img {
