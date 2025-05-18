@@ -1,6 +1,6 @@
-# Ooit was ik groot en blij. Nu is het onrustig met mij in de wei
+# Ik was te vies om aan te zien, daarna werd ik een fris groen ding
 
-![Story7](story7.jpeg)
+![Story7](story7.png)
 
 <style>
     img {
@@ -26,7 +26,7 @@
 </script>
 
 <div id="description" style="text-align: center; font-style: italic;">
-    Genesis 31:35: Rachel verstopte de afgoden van haar vader Laban onder haar zitvlak en zei dat ze niet kon opstaan omdat ze ongesteld was
+    2 Koningen 5: 14 - Naaman's huid veranderd in 'als die van een klein jongen (babyface) 
 </div>
 
 [Pick a new card](../random.md)
