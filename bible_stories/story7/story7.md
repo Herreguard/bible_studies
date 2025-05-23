@@ -1,6 +1,6 @@
 # Ik was te vies om aan te zien, daarna werd ik een fris groen ding
 
-![Story7](story7.png)
+![Story7](story7.jpeg)
 
 <style>
     img {

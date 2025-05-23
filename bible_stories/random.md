@@ -21,6 +21,7 @@ This page will redirect to a random page from the list below every time it is ac
         "story6/story6.html",
         "story7/story7.html",
         "story8/story8.html",
+        "story9/story9.html"
     ];
 
     // Select a random page
