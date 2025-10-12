@@ -1,6 +1,6 @@
-# Ik raakte de beenderen aan en kon weer op mijn voeten staan
+# Bij het controleren van mijn cassette, miste ik mijn laatste set
 
-![Story13](story13.jpeg)
+![Story16](story16.jpeg)
 
 <style>
     img {
@@ -26,7 +26,7 @@
 </script>
 
 <div id="description" style="text-align: center; font-style: italic;">
-    2 Koningen 13:20-21: "Een dode man wordt levend door de aanraking van Elisha's beenderen."
+    Ezra 1: 9 : Er mist een mes bij het set van dertig gouden schalen en bekers die teruggebracht zijn uit Babel.
 </div>
 
 [Pick a new card](../random.md)

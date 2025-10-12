@@ -1,6 +1,6 @@
 # Deze honderd mensen kunnen eten zoveel ze wensen
 
-![Story7](story11.jpeg)
+![Story11](story11.jpeg)
 
 <style>
     img {

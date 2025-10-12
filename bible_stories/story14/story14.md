@@ -1,6 +1,6 @@
 # Als mijn man het niet zou weten, zou ik geen stof hebben gegeten
 
-![Story7](story14.jpeg)
+![Story14](story14.jpeg)
 
 <style>
     img {

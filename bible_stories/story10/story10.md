@@ -1,6 +1,6 @@
 # Ik vond het in de zee en betaalde voor twee
 
-![Story7](story10.jpeg)
+![Story10](story10.jpeg)
 
 <style>
     img {

@@ -1,6 +1,6 @@
-# Ik raakte de beenderen aan en kon weer op mijn voeten staan
+# Deze diepe bron uit verre streken, wordt tegenwoordig nog bekeken.
 
-![Story13](story13.jpeg)
+![Story15](story15.jpeg)
 
 <style>
     img {
@@ -26,7 +26,7 @@
 </script>
 
 <div id="description" style="text-align: center; font-style: italic;">
-    2 Koningen 13:20-21: "Een dode man wordt levend door de aanraking van Elisha's beenderen."
+    Koning Hizkia bouwt een waterleiding van de Gihonbron naar de Siloambron binnen de stadsmuren van Jeruzalem. Dit is tegenwoordig een toeristische attractie (2 Kronieken 32:30; 2 Koningen 20:20; Jesaja 22:9-11).
 </div>
 
 [Pick a new card](../random.md)
