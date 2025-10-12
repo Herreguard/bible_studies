@@ -1,6 +1,6 @@
 # Ik raakte de beenderen aan en kon weer op mijn voeten staan
 
-![Story7](story7.jpeg)
+![Story7](story13.jpeg)
 
 <style>
     img {

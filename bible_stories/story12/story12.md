@@ -1,6 +1,6 @@
 # Ik werd voorgelezen in de nacht totdat ik aan een beloning dacht
 
-![Story7](story7.jpeg)
+![Story7](story12.jpeg)
 
 <style>
     img {
