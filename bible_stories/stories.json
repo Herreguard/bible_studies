@@ -1,0 +1,191 @@
+{
+  "stories": [
+    {
+      "id": "story1",
+      "translations": {
+        "nl": {
+          "title": "Nuttig is mijn naam, onzeker mijn bestaan.",
+          "description": "Onesimus in de brief van Paulus aan Filemon. Onesimus betekent nuttig en was een weg gelopen slaaf die, met een brief van Paulus, terug ging naar zijn meester Filemon.",
+          "reference": "Brief van Paulus aan Filemon"
+        },
+        "en": {
+          "title": "Useful is my name, uncertain my existence.",
+          "description": "Onesimus in Paul's letter to Philemon. Onesimus means useful and was a runaway slave who, with a letter from Paul, returned to his master Philemon.",
+          "reference": "Paul's Letter to Philemon"
+        }
+      },
+      "image": "images/story1.png"
+    },
+    {
+      "id": "story2",
+      "translations": {
+        "nl": {
+          "title": "Mijn komst is geprofeteerd maar in Israel wordt ik niet vereerd",
+          "description": "Kores. Kores wordt in Jesaja 45:1 genoemd als de gezalfde van God. Hij was het die de Joden toestemming gaf om terug te keren naar Jeruzalem.",
+          "reference": ""
+        }
+      },
+      "image": "images/story2.jpeg"
+    },
+    {
+      "id": "story3",
+      "translations": {
+        "nl": {
+          "title": "Samen zijn we overdonderd",
+          "description": "Jakobus en Johannes. De gebroederes van de donder genoemd in Markus",
+          "reference": "Markus 3:17"
+        }
+      },
+      "image": "images/story3.jpeg"
+    },
+    {
+      "id": "story4",
+      "translations": {
+        "nl": {
+          "title": "Ooit was ik groot en blij. Nu is het onrustig met mij in de wei",
+          "description": "Nebukadnezar. In Daniël wordt Nebukadnezar de koning van Babel genoemd. Hij was de koning die een tijd(7 jaar) als een beest leefde.",
+          "reference": "Daniël 4:30"
+        }
+      },
+      "image": "images/story4.jpeg"
+    },
+    {
+      "id": "story6",
+      "translations": {
+        "nl": {
+          "title": "Verzuchtend en verdwaast zocht hij buiten naar wat extra tijd voor zijn uurwerk",
+          "description": "Een Egyptenaar die die zijn zandloper bijfult ten tijde van Hizkia;s langere dag.",
+          "reference": "Jesaja 38:8"
+        }
+      },
+      "image": "images/story6.jpeg"
+    },
+    {
+      "id": "story7",
+      "translations": {
+        "nl": {
+          "title": "Story 7",
+          "description": "",
+          "reference": ""
+        }
+      },
+      "image": "images/story7.jpeg"
+    },
+    {
+      "id": "story8",
+      "translations": {
+        "nl": {
+          "title": "Deze droom is een natuurkundig fenomeen geworden",
+          "description": "De jacob's ladder. Je kunt een jacob's ladder maken met een hoogspanningsbron en twee metalen staven",
+          "reference": "Genesis 28:12"
+        }
+      },
+      "image": "images/story8.jpeg"
+    },
+    {
+      "id": "story9",
+      "translations": {
+        "nl": {
+          "title": "Het jeukte op mijn rug, nu sjokken mijn ezels wel erg langzaam terug",
+          "description": "Naaman, na zijn genezing, vraagt of hij aarde mee mag nemen",
+          "reference": "2 Koningen 5"
+        },
+        "en": {
+          "title": "It itched on my back, now my donkeys trudge very slowly back",
+          "description": "Naaman, after his healing, asks if he may take earth with him",
+          "reference": "2 Kings 5"
+        }
+      },
+      "image": "images/story9.png"
+    },
+    {
+      "id": "story10",
+      "translations": {
+        "nl": {
+          "title": "Ik vond het in de zee en betaalde voor twee",
+          "description": "Petrus vangt een vis met een munt in zijn bek om de tempelbelasting te betalen.",
+          "reference": "2 Koningen 4:42-44"
+        }
+      },
+      "image": "images/story10.jpeg"
+    },
+    {
+      "id": "story11",
+      "translations": {
+        "nl": {
+          "title": "Deze honderd mensen kunnen eten zoveel ze wensen",
+          "description": "Elia voedt honderd mensen met twintig gerstekorrelbroden en enkele gerstebroodjes",
+          "reference": "2 Koningen 4:42-44"
+        }
+      },
+      "image": "images/story11.jpeg"
+    },
+    {
+      "id": "story12",
+      "translations": {
+        "nl": {
+          "title": "Ik werd voorgelezen in de nacht totdat ik aan een beloning dacht",
+          "description": "Koning Ahasveros kan niet slapen en laat zich voorlezen uit de kronieken.",
+          "reference": "Esther 6:1-14"
+        }
+      },
+      "image": "images/story12.jpeg"
+    },
+    {
+      "id": "story13",
+      "translations": {
+        "nl": {
+          "title": "Ik raakte de beenderen aan en kon weer op mijn voeten staan",
+          "description": "Een dode man wordt levend door de aanraking van Elisha's beenderen.",
+          "reference": "2 Koningen 13:20-21"
+        }
+      },
+      "image": "images/story13.jpeg"
+    },
+    {
+      "id": "story14",
+      "translations": {
+        "nl": {
+          "title": "Als mijn man het niet zou weten, zou ik geen stof hebben gegeten",
+          "description": "Een vrouw moet een beker met stof drinken om haar onschuld te bewijzen.",
+          "reference": "Numeri 5:11-31"
+        }
+      },
+      "image": "images/story14.jpeg"
+    },
+    {
+      "id": "story15",
+      "translations": {
+        "nl": {
+          "title": "Deze diepe bron uit verre streken, wordt tegenwoordig nog bekeken.",
+          "description": "Koning Hizkia bouwt een waterleiding van de Gihonbron naar de Siloambron binnen de stadsmuren van Jeruzalem. Dit is tegenwoordig een toeristische attractie.",
+          "reference": "2 Kronieken 32:30; 2 Koningen 20:20; Jesaja 22:9-11"
+        }
+      },
+      "image": "images/story15.jpeg"
+    },
+    {
+      "id": "story16",
+      "translations": {
+        "nl": {
+          "title": "Bij het controleren van mijn cassette, miste ik mijn laatste set",
+          "description": "Er mist een mes bij het set van dertig gouden schalen en bekers die teruggebracht zijn uit Babel.",
+          "reference": "Ezra 1:9-11"
+        }
+      },
+      "image": "images/story16.jpeg"
+    },
+    {
+        "id": "story17",
+        "translations": {
+            "en": {
+            "title": "We turned from the Ark and bowed to the dawn,\n Twenty-five strong, our worship withdrawn.\n Darkness behind us, but sun in our sight,\n Now we face east to seek your True light.",
+            "description": "25 priets in Ezekiel's vision turn their backs on the Ark of the Covenant to worship the sun at dawn.",
+            "reference": "Ezechiel 8"
+            }
+        },
+        "image": "images/story17.png"
+    }
+
+  ]
+}

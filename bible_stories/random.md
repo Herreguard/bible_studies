@@ -1,123 +1,107 @@
-# Random Page Selector
-
-This page will redirect to a random page from the list below every time it is accessed.
-
-## Pages List
-<ul id="story-list">
-    <li>Loading stories…</li>
-</ul>
+<div id="story-container">
+    <p style="text-align:center;">Loading random story...</p>
+</div>
 
 <script>
-    async function resourceExists(url) {
-        try {
-            const headResponse = await fetch(url, { method: 'HEAD', cache: 'no-store' });
-            if (headResponse.ok) {
-                return true;
-            }
-            if (headResponse.status === 405) {
-                const getResponse = await fetch(url, { method: 'GET', cache: 'no-store' });
-                return getResponse.ok;
-            }
-        } catch (error) {
-            console.warn(`Unable to reach ${url}:`, error);
-        }
-        return false;
-    }
-
-    async function discoverStory(index) {
-        const storyId = `story${index}`;
-        const basePath = `${storyId}/${storyId}`;
-
-        const htmlUrl = `${basePath}.html`;
-        const mdUrl = `${basePath}.md`;
-        const jpegUrl = `${basePath}.jpeg`;
-        const pngUrl = `${basePath}.png`;
-
-        const [hasHtml, hasMd, hasJpeg, hasPng] = await Promise.all([
-            resourceExists(htmlUrl),
-            resourceExists(mdUrl),
-            resourceExists(jpegUrl),
-            resourceExists(pngUrl)
-        ]);
-
-        if (!hasHtml && !hasMd) {
-            return null;
-        }
-
-        const preferredPage = hasHtml ? htmlUrl : mdUrl;
-        const image = hasJpeg ? jpegUrl : (hasPng ? pngUrl : null);
-
-        return {
-            index,
-            title: `Story ${index}`,
-            pageUrl: preferredPage,
-            mdUrl: hasMd ? mdUrl : null,
-            imageUrl: image
-        };
-    }
-
-    function buildListItem(story) {
-        const listItem = document.createElement('li');
-
-        const mainLink = document.createElement('a');
-        mainLink.href = story.pageUrl;
-        mainLink.textContent = story.title;
-        listItem.appendChild(mainLink);
-
-        if (story.mdUrl && story.mdUrl !== story.pageUrl) {
-            const mdLink = document.createElement('a');
-            mdLink.href = story.mdUrl;
-            mdLink.textContent = 'Markdown';
-            mdLink.style.marginLeft = '0.5rem';
-            listItem.appendChild(document.createTextNode(' ('));
-            listItem.appendChild(mdLink);
-            listItem.appendChild(document.createTextNode(')'));
-        }
-
-        if (story.imageUrl) {
-            const imageThumb = document.createElement('img');
-            imageThumb.src = story.imageUrl;
-            imageThumb.alt = `${story.title} preview`;
-            imageThumb.loading = 'lazy';
-            imageThumb.style.display = 'block';
-            imageThumb.style.maxWidth = '200px';
-            imageThumb.style.marginTop = '0.5rem';
-            listItem.appendChild(imageThumb);
-        }
-
-        return listItem;
-    }
+    let currentLang = 'nl';
+    let currentStory = null;
 
     async function loadStories() {
-        const storyList = document.getElementById('story-list');
-        const stories = [];
-        let consecutiveMisses = 0;
-        const maxStories = 200;
-        const missLimit = 10;
-
-        for (let i = 1; i <= maxStories && consecutiveMisses < missLimit; i++) {
-            const story = await discoverStory(i);
-            if (story) {
-                stories.push(story);
-                consecutiveMisses = 0;
-            } else {
-                consecutiveMisses++;
+        try {
+            const response = await fetch('stories.json');
+            const data = await response.json();
+            
+            if (!data.stories || data.stories.length === 0) {
+                document.getElementById('story-container').innerHTML = '<p>No stories found.</p>';
+                return;
             }
+
+            // Pick a random story
+            currentStory = data.stories[Math.floor(Math.random() * data.stories.length)];
+            renderStory();
+        } catch (error) {
+            console.error('Error loading stories:', error);
+            document.getElementById('story-container').innerHTML = '<p>Error loading stories.</p>';
         }
+    }
 
-        if (!stories.length) {
-            storyList.innerHTML = '<li>No stories found yet.</li>';
-            return;
-        }
+    function renderStory() {
+        if (!currentStory) return;
 
-        stories.sort((a, b) => a.index - b.index);
+        const translation = currentStory.translations[currentLang] || currentStory.translations['nl'] || Object.values(currentStory.translations)[0];
+        const availableLanguages = Object.keys(currentStory.translations);
 
-        storyList.innerHTML = '';
-        stories.map(buildListItem).forEach((item) => storyList.appendChild(item));
+        const container = document.getElementById('story-container');
+        container.innerHTML = `
+            <div style="text-align:center;margin-bottom:1rem;">
+                ${availableLanguages.length > 1 ? availableLanguages.map(lang => 
+                    `<button onclick="switchLanguage('${lang}')" style="margin:0 0.5rem;padding:0.5rem 1rem;${lang === currentLang ? 'font-weight:bold;' : ''}">${lang.toUpperCase()}</button>`
+                ).join('') : ''}
+            </div>
 
-        const randomStory = stories[Math.floor(Math.random() * stories.length)];
-        window.location.href = randomStory.pageUrl;
+            <h1 style="text-align:center;">${translation.title}</h1>
+
+            <div class="flip-container" style="width:100%;max-width:500px;margin:auto;">
+                <div class="flipper" id="flipper">
+                    <div class="front">
+                        <img src="${currentStory.image}" alt="${translation.title}" style="width:100%;height:auto;display:block;">
+                    </div>
+                    <div class="back" style="display:flex;align-items:center;justify-content:center;height:100%;background:#f9f9f9;">
+                        <div id="description" style="text-align:center;font-style:italic;padding:2em;">
+                            ${translation.description}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <p style="text-align:center;margin-top:2rem;">
+                <a href="random.md" onclick="location.reload(); return false;" style="padding:0.5rem 1rem;background:#0366d6;color:white;text-decoration:none;border-radius:5px;">Pick a new card</a>
+            </p>
+        `;
+
+        // Add flip functionality
+        const flipper = document.getElementById('flipper');
+        flipper.addEventListener('dblclick', function () {
+            flipper.classList.toggle('flipped');
+        });
+    }
+
+    function switchLanguage(lang) {
+        currentLang = lang;
+        renderStory();
     }
 
     document.addEventListener('DOMContentLoaded', loadStories);
 </script>
+
+<style>
+.flip-container {
+    perspective: 1000px;
+}
+.flipper {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 66.66%; /* 3:2 aspect ratio */
+    transition: 0.6s;
+    transform-style: preserve-3d;
+}
+.front, .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    top: 0;
+    left: 0;
+}
+.front {
+    z-index: 2;
+}
+.back {
+    transform: rotateY(180deg);
+    z-index: 1;
+}
+.flipped {
+    transform: rotateY(180deg);
+}
+</style>
