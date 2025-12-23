@@ -5,9 +5,15 @@ Contrast tussen de Duivel en Edom/Ezou.
 ## Spel idee
 
 ### Akinator: Edom / de duivel
-Goed ingelezen zijn in het contrast tussen de duivel en Edom. Maar beide zijn tegnestanders
+- Goed ingelezen zijn in het contrast tussen de duivel en Edom. Maar beide zijn tegenstanders
+- Hints in de vorm van Bijbelteksten (zoals hieronder?) -> Bv. iets van klaagliederen voorlezen, of iets uit Job.
 
-Hints in de vorm van Bijbelteksten (zoals hieronder?) -> Bv. iets van klaagliederen voorlezen, of iets uit Job.
+# Uitvoering
+- Verzamelen van alle teksten over Israel/Edom en Jakob/Ezou.
+    - Gaan we uitwerken hoe wij dat lezen? 
+    - Switch maken naar Christendom -> Vervangingstheologie en zegen
+- Is er rede voor de beschuldiging dat het christendom de rol van Edom op zich neemt?
+    - Rome als tegenstander van Israel
 
 ## Inleding
 In het oude testament is er veel voorkomend een hele duidelijke tegenstander van het Joodse volk, namelijk Edom of Ezou. We vinden dit terug
@@ -99,3 +105,15 @@ nu leeft zij voor hem — die haar lachen behoort.
 Dit symbool van vertrouwen en liefde doorboort
 
 Dit symbool van verbinding lijkt de spelmaker geen fijne bevinding
+
+## Christelijke 
+Invulling van onze traditie. Jakob die strijdt met de Engel. Gevolgen daarvan.
+
+Hemel en Hel, de duivel, zijn hele christelijke onderwerpen.
+
+Willen we meenemen dat Edom of Amelek nooit een deel hebben aan Gods koninkrijk?
+
+### Nodig:
+- Kaart
+Verzamelen welke teksten 
+- Schaatsen
