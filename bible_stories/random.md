@@ -41,34 +41,56 @@
 
         const container = document.getElementById('story-container');
         container.innerHTML = `
-            <div style="text-align:center;margin-bottom:1rem;">
-                ${availableLanguages.length > 1 ? availableLanguages.map(lang => 
-                    `<button onclick="switchLanguage('${lang}')" style="margin:0 0.5rem;padding:0.5rem 1rem;${lang === currentLang ? 'font-weight:bold;' : ''}">${lang.toUpperCase()}</button>`
-                ).join('') : ''}
+            <div class="controls">
+                ${availableLanguages.length > 1 ? 
+                    '<div class="language-buttons">' +
+                    availableLanguages.map(lang => 
+                        `<button onclick="switchLanguage('${lang}')" class="lang-btn ${lang === currentLang ? 'active' : ''}">${lang.toUpperCase()}</button>`
+                    ).join('') +
+                    '</div>'
+                : ''}
             </div>
 
-            <pre style="text-align:center;white-space:pre-wrap;font-family:inherit;margin:1rem 0;">${translation.title}</pre>
+            <div class="riddle">
+                <pre>${translation.title}</pre>
+            </div>
 
-            <div class="flip-container" style="width:100%;max-width:500px;margin:auto;">
-                <div class="flipper" id="flipper">
-                    <div class="front">
-                        <img src="${currentStory.image}" alt="${translation.title}" style="width:100%;height:100%;display:block;">
+            <div class="card" id="card">
+                <div class="card-inner" id="card-inner">
+                    <div class="card-front">
+                        <img src="${currentStory.image}" alt="${translation.title}">
                     </div>
-                    <div class="back" style="display:flex;align-items:center;justify-content:center;height:100%;background:#f9f9f9;">
-                        <pre id="description" style="text-align:center;font-style:italic;padding:2em;white-space:pre-wrap;font-family:inherit;">${translation.description}</pre>
+                    <div class="card-back">
+                        <div class="answer">
+                            <pre>${translation.description}</pre>
+                            ${translation.reference ? `<div class="reference">${translation.reference}</div>` : ''}
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <p style="text-align:center;margin-top:2rem;">
-                <a href="random.md" onclick="location.reload(); return false;" style="padding:0.5rem 1rem;background:#0366d6;color:white;text-decoration:none;border-radius:5px;">Pick a new card</a>
-            </p>
+            <div class="controls">
+                <button onclick="location.reload()" class="new-card-btn">Pick a new card</button>
+            </div>
         `;
 
-        // Add flip functionality
-        const flipper = document.getElementById('flipper');
-        flipper.addEventListener('dblclick', function () {
-            flipper.classList.toggle('flipped');
+        // Add triple-click flip functionality
+        const card = document.getElementById('card-inner');
+        let clickCount = 0;
+        let clickTimer = null;
+        
+        card.addEventListener('click', function () {
+            clickCount++;
+            
+            if (clickCount === 1) {
+                clickTimer = setTimeout(function() {
+                    clickCount = 0;
+                }, 500);
+            } else if (clickCount === 3) {
+                clearTimeout(clickTimer);
+                clickCount = 0;
+                card.classList.toggle('flipped');
+            }
         });
     }
 
@@ -81,33 +103,157 @@
 </script>
 
 <style>
-.flip-container {
-    perspective: 1000px;
+body {
+    margin: 0;
+    padding: 1rem;
 }
-.flipper {
+
+#story-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.controls {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.language-buttons {
+    display: inline-flex;
+    gap: 0.5rem;
+}
+
+.lang-btn {
+    padding: 0.5rem 1rem;
+    border: 2px solid #0366d6;
+    background: white;
+    color: #0366d6;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.lang-btn:hover {
+    background: #f0f8ff;
+}
+
+.lang-btn.active {
+    background: #0366d6;
+    color: white;
+}
+
+.riddle {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.riddle pre {
+    font-family: inherit;
+    font-size: 1.1rem;
+    white-space: pre-wrap;
+    margin: 0;
+    font-weight: 500;
+}
+
+.card {
+    perspective: 1000px;
+    margin: 2rem auto;
+    max-width: 500px;
+}
+
+@media (max-width: 768px) {
+    .card {
+        max-width: 100%;
+    }
+}
+
+.card-inner {
     position: relative;
     width: 100%;
-    height: 0;
-    padding-bottom: 66.66%; /* 3:2 aspect ratio */
-    transition: 0.6s;
+    transition: transform 0.6s;
     transform-style: preserve-3d;
+    cursor: pointer;
 }
-.front, .back {
-    position: absolute;
+
+.card-inner:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-front, .card-back {
     width: 100%;
-    height: 100%;
     backface-visibility: hidden;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-front {
+    position: relative;
+}
+
+.card-front img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .card-front img {
+        object-fit: cover;
+        min-height: 400px;
+    }
+}
+
+.card-back {
+    position: absolute;
     top: 0;
     left: 0;
-}
-.front {
-    z-index: 2;
-}
-.back {
+    width: 100%;
+    height: 100%;
     transform: rotateY(180deg);
-    z-index: 1;
+    background: #f9f9f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    box-sizing: border-box;
 }
-.flipped {
+
+.answer pre {
+    font-family: inherit;
+    font-style: italic;
+    white-space: pre-wrap;
+    text-align: center;
+    margin: 0 0 1rem 0;
+    font-size: 1rem;
+}
+
+.reference {
+    text-align: center;
+    font-weight: 600;
+    color: #0366d6;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+}
+
+.card-inner.flipped {
     transform: rotateY(180deg);
+}
+
+.new-card-btn {
+    padding: 0.75rem 1.5rem;
+    background: #0366d6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.new-card-btn:hover {
+    background: #0256c7;
 }
 </style>

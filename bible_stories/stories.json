@@ -108,7 +108,8 @@
           "reference": "2 Koningen 4:42-44"
         }
       },
-      "image": "images/story10.jpeg"
+      "image": "images/story10.jpeg",
+      "included": false
     },
     {
       "id": "story11",
@@ -119,7 +120,8 @@
           "reference": "2 Koningen 4:42-44"
         }
       },
-      "image": "images/story11.jpeg"
+      "image": "images/story11.jpeg",
+      "included": false
     },
     {
       "id": "story12",
@@ -130,7 +132,8 @@
           "reference": "Esther 6:1-14"
         }
       },
-      "image": "images/story12.jpeg"
+      "image": "images/story12.jpeg",
+      "included": false
     },
     {
       "id": "story13",
@@ -141,7 +144,8 @@
           "reference": "2 Koningen 13:20-21"
         }
       },
-      "image": "images/story13.jpeg"
+      "image": "images/story13.jpeg",
+      "included": false
     },
     {
       "id": "story14",
@@ -152,7 +156,8 @@
           "reference": "Numeri 5:11-31"
         }
       },
-      "image": "images/story14.jpeg"
+      "image": "images/story14.jpeg",
+      "included": false
     },
     {
       "id": "story15",
@@ -163,7 +168,8 @@
           "reference": "2 Kronieken 32:30; 2 Koningen 20:20; Jesaja 22:9-11"
         }
       },
-      "image": "images/story15.jpeg"
+      "image": "images/story15.jpeg",
+      "included": false
     },
     {
       "id": "story16",
@@ -174,7 +180,8 @@
           "reference": "Ezra 1:9-11"
         }
       },
-      "image": "images/story16.jpeg"
+      "image": "images/story16.jpeg",
+      "included": false
     },
     {
         "id": "story17",
