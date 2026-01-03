@@ -9,7 +9,7 @@
           "reference": "Brief van Paulus aan Filemon"
         },
         "en": {
-          "title": "Useful is my name, uncertain my existence.",
+          "title": "Useful is my name, uncertain my domain.",
           "description": "Onesimus in Paul's letter to Philemon. Onesimus means useful and was a runaway slave who, with a letter from Paul, returned to his master Philemon.",
           "reference": "Paul's Letter to Philemon"
         }
@@ -69,7 +69,8 @@
           "reference": ""
         }
       },
-      "image": "images/story7.jpeg"
+      "image": "images/story7.jpeg",
+      "included": false
     },
     {
       "id": "story8",

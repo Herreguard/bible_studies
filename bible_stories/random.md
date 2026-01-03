@@ -16,8 +16,16 @@
                 return;
             }
 
-            // Pick a random story
-            currentStory = data.stories[Math.floor(Math.random() * data.stories.length)];
+            // Filter out stories that are not yet included (included === false)
+            const includedStories = data.stories.filter(story => story.included !== false);
+            
+            if (includedStories.length === 0) {
+                document.getElementById('story-container').innerHTML = '<p>No included stories found.</p>';
+                return;
+            }
+
+            // Pick a random story from included stories
+            currentStory = includedStories[Math.floor(Math.random() * includedStories.length)];
             renderStory();
         } catch (error) {
             console.error('Error loading stories:', error);
@@ -39,17 +47,15 @@
                 ).join('') : ''}
             </div>
 
-            <h1 style="text-align:center;">${translation.title}</h1>
+            <pre style="text-align:center;white-space:pre-wrap;font-family:inherit;margin:1rem 0;">${translation.title}</pre>
 
             <div class="flip-container" style="width:100%;max-width:500px;margin:auto;">
                 <div class="flipper" id="flipper">
                     <div class="front">
-                        <img src="${currentStory.image}" alt="${translation.title}" style="width:100%;height:auto;display:block;">
+                        <img src="${currentStory.image}" alt="${translation.title}" style="width:100%;height:100%;display:block;">
                     </div>
                     <div class="back" style="display:flex;align-items:center;justify-content:center;height:100%;background:#f9f9f9;">
-                        <div id="description" style="text-align:center;font-style:italic;padding:2em;">
-                            ${translation.description}
-                        </div>
+                        <pre id="description" style="text-align:center;font-style:italic;padding:2em;white-space:pre-wrap;font-family:inherit;">${translation.description}</pre>
                     </div>
                 </div>
             </div>
