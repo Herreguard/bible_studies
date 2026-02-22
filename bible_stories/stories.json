@@ -193,6 +193,22 @@
             }
         },
         "image": "images/story17.png"
+    },
+    {
+      "id": "story18",
+      "translations": {
+        "nl": {
+          "title": "Wat is tijdloos en ijdel, maar toch zo geliefd",
+          "description": "Wat is tijdloos en ijdel, maar toch zo geliefd,\neen teken van trouw dat de liefde doorboort.\nVan haar werd het hart door dit teken gediefd,\nnu gaat zij voor hem, die om liefde slechts hoort.",
+          "reference": "Genesis 24:47; Spreuken 31:10-31"
+        },
+        "en": {
+          "title": "What is timeless and vain, yet dearly beloved",
+          "description": "What is timeless yet vain, but dearly beloved?\nA token of faithfulness, whose piercing speaks love.\nFor her heart, it was stolen by this sign of its trust,\nnow she goes forth, for his love and Much more.",
+          "reference": "Genesis 24:47; Proverbs 31:10-31"
+        }
+      },
+      "image": "images/story18.jpeg"
     }
 
   ]
