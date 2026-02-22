@@ -16,16 +16,31 @@
                 return;
             }
 
-            // Filter out stories that are not yet included (included === false)
-            const includedStories = data.stories.filter(story => story.included !== false);
+            // Check if a specific story is requested via URL parameter
+            const urlParams = new URLSearchParams(window.location.search);
+            const requestedStoryId = urlParams.get('story');
             
-            if (includedStories.length === 0) {
-                document.getElementById('story-container').innerHTML = '<p>No included stories found.</p>';
-                return;
-            }
+            if (requestedStoryId) {
+                // Find the specific story by ID
+                currentStory = data.stories.find(story => story.id === requestedStoryId);
+                
+                if (!currentStory) {
+                    document.getElementById('story-container').innerHTML = `<p>Story "${requestedStoryId}" not found.</p>`;
+                    return;
+                }
+            } else {
+                // Filter out stories that are not yet included (included === false)
+                const includedStories = data.stories.filter(story => story.included !== false);
+                
+                if (includedStories.length === 0) {
+                    document.getElementById('story-container').innerHTML = '<p>No included stories found.</p>';
+                    return;
+                }
 
-            // Pick a random story from included stories
-            currentStory = includedStories[Math.floor(Math.random() * includedStories.length)];
+                // Pick a random story from included stories
+                currentStory = includedStories[Math.floor(Math.random() * includedStories.length)];
+            }
+            
             renderStory();
         } catch (error) {
             console.error('Error loading stories:', error);
