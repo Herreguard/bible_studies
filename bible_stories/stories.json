@@ -208,7 +208,8 @@
           "reference": "Genesis 24:47; Proverbs 31:10-31"
         }
       },
-      "image": "images/story18.jpeg"
+      "image": "images/story18.jpeg",
+      "included": true
     }
 
   ]
